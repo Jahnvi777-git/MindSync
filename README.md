@@ -49,7 +49,7 @@ MindSync is a comprehensive mental well-being platform designed to help individu
 | **Name**             |  
 |----------------------|
 | Kosuri Lakshmi Indu  |  
-| Namratha Sriram      |  
 | Jahnvi Kakkar        |  
+| Namratha Sriram      |  
 
  
